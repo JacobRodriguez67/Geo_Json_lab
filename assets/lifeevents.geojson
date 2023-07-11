@@ -1,0 +1,157 @@
+{
+    "type": "FeatureCollection",
+    "name": "Michael Jackson's Life Events",
+    "crs": {
+      "type": "name",
+      "properties": {
+        "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+      }
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "year": 1958,
+          "event": "Birth",
+          "achievement": "Michael Jackson was born in Gary, Indiana, USA."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.3474,
+            41.6020,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "year": 1964,
+          "event": "Jackson 5 Formation",
+          "achievement": "The Jackson 5, consisting of Michael Jackson and his brothers, formed in Gary, Indiana, USA."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -87.3474,
+            41.6020,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "year": 1969,
+          "event": "Motown Records",
+          "achievement": "The Jackson 5 signed with Motown Records in Detroit, Michigan, USA."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -83.0458,
+            42.3314,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "year": 1982,
+          "event": "Thriller Release",
+          "achievement": "Michael Jackson's album 'Thriller' was released, becoming the best-selling album of all time."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.4118,
+            34.0648,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "year": 1983,
+          "event": "Motown 25 Performance",
+          "achievement": "Michael Jackson performed his iconic 'moonwalk' dance during the Motown 25: Yesterday, Today, Forever TV special in Pasadena, California, USA."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.1445,
+            34.1478,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "year": 1984,
+          "event": "Victory Tour",
+          "achievement": "The Jacksons embarked on the Victory Tour, a concert tour of North America, following the release of their album 'Victory'."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.2670,
+            34.0430,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "year": 1987,
+          "event": "Bad World Tour",
+          "achievement": "Michael Jackson embarked on his first solo world tour, the Bad World Tour, starting in Tokyo, Japan."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            139.6917,
+            35.6895,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "year": 1993,
+          "event": "Super Bowl XXVII Halftime Show",
+          "achievement": "Michael Jackson performed during the halftime show of Super Bowl XXVII at the Rose Bowl Stadium in Pasadena, California, USA."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.1662,
+            34.1613,
+            0
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "year": 2009,
+          "event": "Death",
+          "achievement": "Michael Jackson passed away at his home in Los Angeles, California, USA."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.4139,
+            34.0806,
+            0
+          ]
+        }
+      }
+    ]
+  }
+  
